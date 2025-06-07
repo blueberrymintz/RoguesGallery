@@ -1,0 +1,2 @@
+std = "love2d"
+exclude = ["lib/lester/*", "tests/map_tests.lua"]

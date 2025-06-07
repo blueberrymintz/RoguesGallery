@@ -1,7 +1,7 @@
 local game = {}
 
 function game:load()
-    print("Warp successful! Current Scene: EXAMPLE")
+    print("Warp successful! Current Scene Key: example")
 end
 
 function game:update(dt)
