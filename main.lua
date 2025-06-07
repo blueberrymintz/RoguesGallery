@@ -2,7 +2,7 @@ anim8 = require 'libraries/anim8-master/anim8-master/anim8'
 local cron = require 'libraries/cronLua_Master/cron'
 local SceneryInit = require("libraries/scenery_main/scenerys")
 local scenery = SceneryInit(
-    { path = "scenes/copier", key = "example"},
+    {path = "scenes/copier", key = "example"},
     {path = "scenes/ramboStart", key = "ramboStart", default = true}
 
 )
